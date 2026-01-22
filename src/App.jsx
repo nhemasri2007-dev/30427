@@ -47,7 +47,7 @@ function App() {
 
           --{/* Replace src with YOUR photo */} 
           <img
-            src="public/photo.jpeg"
+            src="src/assets/hs.jpeg"
             alt="Student"
             style={imageStyle}
           />
